@@ -138,14 +138,6 @@ vision-x/
 
 ---
 
-## 📸 Screenshots
-
-### Main Dashboard
-
-*(Example UI layout – Webcam/Video, Metrics, Object Counts)*
-![Example UI](https://via.placeholder.com/800x400.png?text=Vision+X+Dashboard+Preview)
-
----
 
 ## 👨‍💻 Credits
 
